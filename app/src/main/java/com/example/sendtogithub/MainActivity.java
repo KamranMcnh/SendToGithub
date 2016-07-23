@@ -10,5 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // this comment is to confirm that it works
+        //this comment confirms the data update
     }
 }
