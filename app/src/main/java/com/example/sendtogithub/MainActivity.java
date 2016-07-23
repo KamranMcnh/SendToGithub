@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // this comment is to confirm that it works
         //this comment confirms the data update
+        
+        getActionBar();
     }
 }
